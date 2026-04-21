@@ -1,3 +1,23 @@
 * {
-  outline: 2px solid red;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  color:coral;
+}
+
+.indice {
+  background-color: aquamarine;
+  padding: 10px;
+  margin: 10px;
+}
+
+.menu {
+  font-size: larger;
+  font-weight: bold;
+  color:crimson;
+}
+
+a:link {
+  color: crimson;
 }
